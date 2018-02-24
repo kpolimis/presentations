@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# R files
+*.Rhistory
+*.Rapp.history
+*.RData
+
+# files
+*.DS_Store
+.httr-oauth
+*.pem
+api_keys.json 
+*.log
+
+# folders
+data/
+src/
+drafts/
